@@ -1,0 +1,1 @@
+dotnet test ./src/Fal.Test/Fal.Test.fsproj
